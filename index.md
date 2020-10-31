@@ -12,7 +12,7 @@
 
 1.消息信号与系统
 
-[homework](https://github.com/1317419740/-)
+[信号homework 集合](https://github.com/1317419740/-)
 
 ### 研究方向
 
