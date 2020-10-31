@@ -2,7 +2,7 @@
 
 #### 姓名：颜家霖
 
-<img border="0" src="C:\Users\86181\AppData\Roaming\Typora\typora-user-images\image-20201031130927234.png" alt="image-20201031130927234" style="zoom: 25%;" />
+<img border="0" src="/QQ图片20201030120941.jpg" alt="image-20201031130927234" style="zoom: 25%;" />
 
 #### 学校：浙大宁波理工学院
 
