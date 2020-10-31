@@ -2,7 +2,7 @@
 
 #### 姓名：颜家霖
 
-<img src="/yjl.jpg" alt="image-20201031130927234" style="zoom: 25%;" />
+<img src="/yjl.jpg" alt="image-20201031130927234">
 
 #### 学校：浙大宁波理工学院
 
